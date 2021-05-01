@@ -4,8 +4,8 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=etc.2miners.com:1010
-WALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f.lolMinerWorker
+POOL=etc.f2pool.com:8118 
+WALLET=0x1458cd8a3eff6c672cec7c72feb977ebc71ec7be.lolMinerWorker
 
 #################################
 ##  End of user-editable part  ##
