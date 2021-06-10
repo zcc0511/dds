@@ -4,8 +4,8 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=beam.sunpool.top:3334
-WALLET=32f2e8765c2e8f5ea41becc5f397024c94d80cc5fc50ee917af23b260ecb3a5f.testRun
+POOL=beam.f2pool.com:5000
+WALLET=18b98f4521b052c7d8b2a8efde334ada393b397dc7a6b06830b2b256dafd6d6ab72.testRun
 
 #################################
 ##  End of user-editable part  ##
