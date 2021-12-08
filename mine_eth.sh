@@ -5,7 +5,7 @@
 #################################
 
 POOL=eth-na.f2pool.com:6688 
-WALLET=d1258z.lolMinerWorker
+WALLET=zcc0511.001
 
 #################################
 ##  End of user-editable part  ##
